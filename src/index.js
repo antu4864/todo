@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 
-import Note from "./Note";
+//import Note from "./Note";
 
 import reportWebVitals from './reportWebVitals';
 
@@ -11,7 +11,7 @@ import reportWebVitals from './reportWebVitals';
 ReactDOM.render(
   <React.StrictMode>
     <App />
-    <Note/>
+    
   </React.StrictMode>,
   document.getElementById('root')
 );
